@@ -9,6 +9,3 @@
 - Open project in Android Studio
 - Sync gradle for dependencies
 - Run and have fun :D
-
-
-# Screenshots
